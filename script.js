@@ -21,3 +21,10 @@ function mainPage(){
 }
 
 mainPage()
+
+function login(){
+    console.log("added login page");
+    
+}
+
+login();
