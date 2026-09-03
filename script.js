@@ -28,3 +28,10 @@ function login(){
 }
 
 login();
+
+function footer(){
+    console.log("footer added in website");
+    
+}
+
+footer();
