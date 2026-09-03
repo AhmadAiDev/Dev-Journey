@@ -7,3 +7,10 @@ function header(){
 }
 
 header();
+
+function navigation(){
+    console.log("navigation added in website");
+    
+}
+
+navigation();
