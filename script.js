@@ -14,3 +14,10 @@ function navigation(){
 }
 
 navigation();
+
+function mainPage(){
+    console.log("added main page in website");
+    
+}
+
+mainPage()
